@@ -1,0 +1,44 @@
+h2 {
+  color: blue;
+}
+
+a {
+  list-style: none;
+  text-decoration: none;
+}
+
+img {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.oy {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 1170px;
+  top: -20px;
+}
+
+.DarkMode {
+  margin-top: -20;
+  margin-left: 1200px;
+}
+
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 60px;
+  margin: 0 auto;
+}
+
+
+
+
+
+header {
+  padding: 25px;
+  border-color: aqua;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.06);
+  color: rgb(16, 13, 209);
+  width: 1280px;
+}
